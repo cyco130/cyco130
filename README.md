@@ -1,6 +1,6 @@
 # Fatih Aygün
 
-[Twitter](https://twitter.com/cyco130) | [StackExchange](https://stackexchange.com/users/538434/cyco130) | [Dev.to](https://dev.to/cyco130) | [Mastodon](https://mas.to/@cyco130)
+[Twitter](https://twitter.com/cyco130) | [StackExchange](https://stackexchange.com/users/538434/cyco130) | [Dev.to](https://dev.to/cyco130) | [Mastodon](https://mas.to/@cyco130) | [LinkedIn](https://www.linkedin.com/in/fatih-ayg%C3%BCn-8b4601105/)
 
 Developer, musician, occasionally other things.
 
@@ -15,7 +15,7 @@ I'm currently focusing on web programming, mostly using TypeScript. My most impo
 
 ### Retrocomputing
 
-I'm a retrocomputing aficionado and a huge Atari 8-bit and 6502 fan. My past open-source credibility comes from:
+I'm a retrocomputing aficionado and a huge Atari 8-bit and 6502 fan. My street cred comes from:
 
 - Contributed [Atari 8-bit graphics drivers](https://github.com/cc65/cc65/tree/master/libsrc/atari/tgi) to CC65 TGI library (2009)
 - Created [AspeQt](https://sourceforge.net/projects/aspeqt/), a cross-platform Atari 8-bit peripheral emulator (2009). Actively maintained fork: [RespeQt](https://github.com/RespeQt/RespeQt)
