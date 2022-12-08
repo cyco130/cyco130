@@ -6,7 +6,7 @@ Developer, musician, occasionally other things.
 
 ## Developer
 
-I'm a software developer currently working at [Lityum A.Ş, Istanbul](https://www.linkedin.com/company/lityum-ltd-/about/), building an applicant tracking system called [PeopleBox](https://www.peoplebox.biz/). My screen nickname is **cyco130**, an example of how things you thought were cool when you were seventeen can follow you around for the rest of your life. Consider it a bad tattoo.
+I'm a software developer currently working at [Lityum A.Ş, Istanbul](https://www.linkedin.com/company/lityum-ltd-/about/), building an applicant tracking system called [PeopleBox](https://www.peoplebox.biz/). My screen nickname is **cyco130**, an example of how things you thought were cool when you were seventeen can follow you around for the rest of your life. Consider it a bad tattoo :D
 
 I'm currently focusing on web programming, mostly using TypeScript. My most important current open-source projects are:
 
