@@ -6,7 +6,7 @@ Developer, musician, occasionally other things.
 
 ## Developer
 
-I'm a software developer currently working at [Lityum A.Ş, Istanbul](https://www.linkedin.com/company/lityum-ltd-/about/), building an applicant tracking system called [PeopleBox](https://www.peoplebox.biz/). My screen nickname is **cyco130**, an example of how things you thought were cool when you were seventeen can follow you around for the rest of your life. Consider it a bad tattoo :D
+I'm a software developer currently working at [Reaktor Lisbon](https://www.reaktor.com/lisbon/). My screen nickname is **cyco130**, an example of how things you thought were cool when you were seventeen can follow you around for the rest of your life. Consider it a bad tattoo :D
 
 I'm currently focusing on web programming, mostly using TypeScript. My most important current open-source projects are:
 
@@ -32,7 +32,7 @@ I also love compilers and parsers, operating system development, and music-relat
 
 I'm a semi-retired rock musician with 25+ years on stage. I mainly play guitar and sing.
 
-- I've gigged continuously since 2004 with several pub bands in Istanbul. MAT (alternative rock, 2004-2010), [Scop](https://www.facebook.com/ScopBand) (classic rock, 2016-pandemic) and [S-Team](https://www.instagram.com/bildiginizadamlar) (alternative rock, 2010-still going) are the ones I had the most fun with.
+- I gigged continuously since 2004 with several pub bands in Istanbul. MAT (alternative rock, 2004-2010), [Scop](https://www.facebook.com/ScopBand) (classic rock, 2016-pandemic) and [S-Team](https://www.instagram.com/bildiginizadamlar) (alternative rock, 2010-2023) are the ones I had the most fun with. I'm hoping to find a suitable band in Lisbon too.
 - I released two albums with [MAT](https://www.youtube.com/watch?v=51N4MjFDOd8) in 2007 and 2010.
 - I released a single with [Kaçak](https://www.youtube.com/watch?v=MgGDR36ZJ74) in 2019.
 - I made commercial jingles for a few years. My most famous one was for [Turkish Airlines](https://www.youtube.com/watch?v=TnLjlU4rCuc) in 2009 (I'm the singer and co-writer).
@@ -41,6 +41,7 @@ I'm a semi-retired rock musician with 25+ years on stage. I mainly play guitar a
 
 ## Other stuff
 
+- I moved to Lisbon in April 2023. I mostly lived in Istanbul before that.
 - I went to Galatasaray High School, a renowned public boarding school in Istanbul.
 - I studied International Relations at Galatasaray University (but never graduated).
 - I'm fluent in Turkish, English, and French. I worked as a technical/legal translator between the three for a few years.
