@@ -12,6 +12,7 @@ I'm currently focusing on web programming, mostly using TypeScript. My most impo
 
 - 💃 [Rakkas](https://github.com/rakkasjs/rakkasjs): a cutting-edge React metaframework based on Vite
 - 🎩 [HatTip](https://github.com/hattipjs/hattip): HTTP server framework for all JavaScript runtimes
+- ⚡ [Vavite](https://github.com/cyco130/vavite): a set of tools for developing and building server-side applications with Vite
 
 ### Retrocomputing
 
