@@ -10,7 +10,7 @@ I'm a software developer currently working at [Reaktor Lisbon](https://www.reakt
 
 I'm currently focusing on web programming, mostly using TypeScript. My most important current open-source projects are:
 
-- 💃 [Rakkas](https://github.com/rakkasjs/rakkasjs): a cutting-edge React metaframework based on Vite
+- 💃 [Rakkas](https://github.com/rakkasjs/rakkasjs): a React metaframework powered by Vite
 - 🎩 [HatTip](https://github.com/hattipjs/hattip): HTTP server framework for all JavaScript runtimes
 - ⚡ [Vavite](https://github.com/cyco130/vavite): a set of tools for developing and building server-side applications with Vite
 
