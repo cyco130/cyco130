@@ -6,7 +6,7 @@ Developer, musician, occasionally other things.
 
 ## Developer
 
-I'm a software developer currently working at [Reaktor Lisbon](https://www.reaktor.com/lisbon/). My screen nickname is **cyco130**, an example of how things you thought were cool when you were seventeen can follow you around for the rest of your life. Consider it a bad tattoo :D
+I'm a software developer currently working at [Reaktor Lisbon](https://www.reaktor.com/lisbon/). My screen nickname is **cyco130**, an example of how things you thought were cool when you were seventeen can follow you around for the rest of your life. Consider it a bad tattoo 🤷🏻‍♂️
 
 I'm currently focusing on web programming, mostly using TypeScript. My most important current open-source projects are:
 
@@ -23,7 +23,7 @@ I'm a retrocomputing aficionado and a huge Atari 8-bit and 6502 fan. My street c
 
 I'm still working on, from time to time:
 
-- [Sfotty Pie](https://github.com/cyco130/sfotty-pie), a set of 6502 tools. Currently just a command-line emulator. A cross-assembler is also in the works.
+- [Sfotty Pie](https://github.com/cyco130/sfotty-pie), a set of 6502 tools. Currently just a simple emulator ([good enough to run Atari BASIC](https://sfotty.cyco130.com)). A cross-assembler is also in the works.
 
 ### Other dev stuff
 
@@ -49,4 +49,4 @@ I'm a semi-retired rock musician with 25+ years on stage. I mainly play guitar a
 - Linguistics is one of my hobbies. Yes, I have weird hobbies.
 - I can drink 20+ pint glasses of beer in a night, but I rarely do now.
 - I drink tea instead. In pint glasses. All day, every day.
-- I'm a recovering chain smoker. Five years and counting.
+- I'm a recovering chain smoker. Six years and counting.
