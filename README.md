@@ -8,10 +8,10 @@ Developer, musician, occasionally other things.
 
 I'm a software developer currently working at [Reaktor Lisbon](https://www.reaktor.com/lisbon/). My screen nickname is **cyco130**, an example of how things you thought were cool when you were seventeen can follow you around for the rest of your life. Consider it a bad tattoo 🤷🏻‍♂️
 
-I'm currently focusing on web programming, mostly using TypeScript. My most important current open-source projects are:
+I'm currently focusing on web programming, mostly using TypeScript. I love open source ([my SourceForge account](https://sourceforge.net/u/cyco130/profile/) was created in 2003). I'm an occasional contributor to Vite and several other projects. My best known current open-source projects are:
 
 - 💃 [Rakkas](https://github.com/rakkasjs/rakkasjs): a React metaframework powered by Vite
-- 🎩 [HatTip](https://github.com/hattipjs/hattip): HTTP server framework for all JavaScript runtimes
+- 🎩 [HatTip](https://github.com/hattipjs/hattip): an HTTP server framework for all JavaScript runtimes
 - ⚡ [Vavite](https://github.com/cyco130/vavite): a set of tools for developing and building server-side applications with Vite
 
 ### Retrocomputing
