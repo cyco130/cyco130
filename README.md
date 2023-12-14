@@ -33,7 +33,7 @@ I also love compilers and parsers, operating system development, and music-relat
 
 I'm a semi-retired rock musician with 25+ years on stage. I mainly play guitar and sing.
 
-- I gigged continuously since 2004 with several pub bands in Istanbul. MAT (alternative rock, 2004-2010), [Scop](https://www.facebook.com/ScopBand) (classic rock, 2016-pandemic) and [S-Team](https://www.instagram.com/bildiginizadamlar) (alternative rock, 2010-2023) are the ones I had the most fun with. I'm hoping to find a suitable band in Lisbon too.
+- I gigged continuously with several pub bands in Istanbul, from 2004 to 2023. MAT (alternative rock, 2004-2010), [Scop](https://www.facebook.com/ScopBand) (classic rock, 2016-pandemic) and [S-Team](https://www.instagram.com/bildiginizadamlar) (alternative rock, 2010-2023) are the ones I had the most fun with. I'm hoping to find a suitable band in Lisbon too.
 - I released two albums with [MAT](https://www.youtube.com/watch?v=51N4MjFDOd8) in 2007 and 2010.
 - I released a single with [Kaçak](https://www.youtube.com/watch?v=MgGDR36ZJ74) in 2019.
 - I made commercial jingles for a few years. My most famous one was for [Turkish Airlines](https://www.youtube.com/watch?v=TnLjlU4rCuc) in 2009 (I'm the singer and co-writer).
