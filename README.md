@@ -1,6 +1,6 @@
 # Fatih Aygün
 
-[Twitter](https://twitter.com/cyco130) | [StackExchange](https://stackexchange.com/users/538434/cyco130) | [Dev.to](https://dev.to/cyco130) | [Mastodon](https://m.webtoo.ls/@cyco130@m.webtoo.ls) | [LinkedIn](https://www.linkedin.com/in/fatih-ayg%C3%BCn-8b4601105/)
+[Twitter](https://twitter.com/cyco130) | [StackExchange](https://stackexchange.com/users/538434/cyco130) | [Dev.to](https://dev.to/cyco130) | [Mastodon](https://m.webtoo.ls/@cyco130) | [LinkedIn](https://www.linkedin.com/in/fatih-ayg%C3%BCn-8b4601105/)
 
 Developer, musician, occasionally other things.
 
