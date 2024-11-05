@@ -1,6 +1,6 @@
 # Fatih Aygün
 
-[Twitter](https://twitter.com/cyco130) | [StackExchange](https://stackexchange.com/users/538434/cyco130) | [Dev.to](https://dev.to/cyco130) | [Mastodon](https://m.webtoo.ls/@cyco130) | [LinkedIn](https://www.linkedin.com/in/fatih-ayg%C3%BCn-8b4601105/)
+[Bluesky](https://bsky.app/profile/cyco130.bsky.social) | [Twitter](https://twitter.com/cyco130) | [Dev.to](https://dev.to/cyco130) | [Mastodon](https://m.webtoo.ls/@cyco130) | [LinkedIn](https://www.linkedin.com/in/fatih-ayg%C3%BCn-8b4601105/) | [StackExchange](https://stackexchange.com/users/538434/cyco130)
 
 Developer, musician, occasionally other things.
 
@@ -33,7 +33,7 @@ I also love compilers and parsers, operating system development, and music-relat
 
 I'm a semi-retired rock musician with 25+ years on stage. I mainly play guitar and sing.
 
-- I gigged continuously with several pub bands in Istanbul, from 2004 to 2023. MAT (alternative rock, 2004-2010), [Scop](https://www.facebook.com/ScopBand) (classic rock, 2016-pandemic) and [S-Team](https://www.instagram.com/bildiginizadamlar) (alternative rock, 2010-2023) are the ones I had the most fun with. I'm hoping to find a suitable band in Lisbon too.
+- I gigged continuously with several pub bands in Istanbul, from 2004 to 2023. MAT (alternative rock, 2004-2010), [Scop](https://www.facebook.com/ScopBand) (classic rock, 2016-pandemic) and [S-Team](https://www.instagram.com/bildiginizadamlar) (alternative rock, 2010-2023) are the ones I had the most fun with. In Lisbon, I took a u-turn and started playing in a [Balkan/Turkish music band](https://www.instagram.com/barantheband/) with my wife.
 - I released two albums with [MAT](https://www.youtube.com/watch?v=51N4MjFDOd8) in 2007 and 2010.
 - I released a single with [Kaçak](https://www.youtube.com/watch?v=MgGDR36ZJ74) in 2019.
 - I made commercial jingles for a few years. My most famous one was for [Turkish Airlines](https://www.youtube.com/watch?v=TnLjlU4rCuc) in 2009 (I'm the singer and co-writer).
@@ -49,4 +49,3 @@ I'm a semi-retired rock musician with 25+ years on stage. I mainly play guitar a
 - Linguistics is one of my hobbies. Yes, I have weird hobbies.
 - I can drink 20+ pint glasses of beer in a night, but I rarely do now.
 - I drink tea instead. In pint glasses. All day, every day.
-- I'm a recovering chain smoker. Six years and counting.
